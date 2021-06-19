@@ -8,7 +8,7 @@ import java.awt.event.MouseListener;
  */
 public class Button extends JButton implements MouseListener  {
     Color color;
-    boolean isOn; //  on/of for the button
+    boolean isOn; //  on/off for the button
     int x,y; //place in the matrix
 
 
